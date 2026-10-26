@@ -1,0 +1,14 @@
+create a bool called gameGoing set it to true
+if 0 is selected set bool to false
+create a menu to allow the user to select between 3 options
+generate a random number for the computer guesser
+ask for user input to select between one of the 3 options
+create a bool called keepGoing and set it to ture
+if its the human guessing as for the users guess 
+if its too low say too low 
+if its too high say too high 
+if its right end the loop by setting keep going to false
+
+if option is computer guesser ask user if first guess is correct
+
+
