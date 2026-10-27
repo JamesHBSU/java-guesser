@@ -1,0 +1,28 @@
+set bool gameGoing = true
+print 0 to exit
+print 1 for human guesser
+print 2 for computer guesser
+if 0 set bool gameGoing = false
+get user input
+if 1 human guesser 
+set boolKeepgoing
+generate random number between 0-100
+get user input for guess
+if less than random number
+print too low
+if too high 
+print too high
+if exact 
+set keepGoing to false
+print good job
+if 2 
+computer generates random number 0-100
+print random number 
+print Too high, too low or correct
+if too high
+set random number limit to random number
+if too low 
+set random number minimum to random number
+if correct
+set keepGoing = true
+
